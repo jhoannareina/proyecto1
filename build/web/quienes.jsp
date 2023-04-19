@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Quienes somos</h1>
+        <%@include file="menu.jsp"%>
         <p>
             A pesar de que se sabe de dónde proviene el texto lorem ipsum, lo cierto es que en cuanto a quién fue el creador, no hay una teoría solo, hay varias. Y es que hay quien data el uso del Lorem Ipsum en los años 60, cuando se comercializó Letraset, que eran unas tipografías adhesivas que se usaban antes de la composición por ordenador. Otros le otorgan una fecho mucho anterior, concretamente, en el siglo XVI.
             Lo que sí está claro es que el origen de este texto vendría dado debido a la necesidad de crear un texto en el que las personas no se fijaran en él, pero sí lo hicieran en el diseño. De ahí el coger un texto que llamara la atención pero no tuviera significado en sí mismo, y sí fuera lo suficiente como para dar una primera visión en general de lo que se mostraba.
